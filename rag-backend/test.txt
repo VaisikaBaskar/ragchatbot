@@ -1,0 +1,1 @@
+The secret code for this test is 12345. This chatbot is designed for RAG verification.
